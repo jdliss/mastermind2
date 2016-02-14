@@ -2,7 +2,7 @@ module GenerateColors
   def gen_colors(diff_level = 4)
     beginner = ["r", "g", "b", "y"]
     intermediate = ["r", "g", "b", "y", "m"]
-    advanced = ["r", "g", "b", "y", "m", "c"]
+    advanced = ["r", "g", "b", "y", "m", "p"]
     rand_colors = []
 
     if diff_level == 4
