@@ -15,6 +15,7 @@
   * 6 - 6 character sequence, 5 colors: Red, Green, Blue, Yellow, Magenta
   * 8 - 8 character sequence, 6 colors: Red, Green, Blue, Yellow, Magenta, Cyan
 
+
   Each sequence is only guaranteed to contain at least one color.  So there's a chance a sequence could be RRRRRRRR or CCCCCCCC, consider this when making guesses.
 
   If you are a morally compromised individual, there is a hidden cheat ability thats available anytime a guess can be made.  This will have no impact on the game, however you will have to live with the burden of guilt.
