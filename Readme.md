@@ -20,7 +20,7 @@
 
   Each sequence is only guaranteed to contain at least one color.  So there's a chance a sequence could be RRRRRRRR or CCCCCCCC, consider this when making guesses.
 
-  If you are a morally compromised individual, there is a hidden cheat ability thats available anytime a guess can be made.  This will have no impact on the game, however you will have to live with the burden of guilt.
+  If you are a morally compromised individual, there is a hidden cheat command that's available anytime a guess can be made.  This will have no impact on the game, however you will have to live with the burden of guilt.
 
   Follow the on screen prompts to play. Good luck!
 
