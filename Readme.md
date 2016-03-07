@@ -11,10 +11,11 @@
   correct place in the sequence.
 
   At the beginning the user can also select one of three difficulty levels:
-  * 4 - 4 character sequence, 4 colors: Red, Green, Blue, Yellow
-  * 6 - 6 character sequence, 5 colors: Red, Green, Blue, Yellow, Magenta
-  * 8 - 8 character sequence, 6 colors: Red, Green, Blue, Yellow, Magenta, Cyan
+  * 4 - 4 character sequence, 4 colors: Red, Green, Blue, Yellow.
 
+  * 6 - 6 character sequence, 5 colors: Red, Green, Blue, Yellow, Magenta.
+
+  * 8 - 8 character sequence, 6 colors: Red,      Green, Blue, Yellow, Magenta, Cyan.
 
 
   Each sequence is only guaranteed to contain at least one color.  So there's a chance a sequence could be RRRRRRRR or CCCCCCCC, consider this when making guesses.
